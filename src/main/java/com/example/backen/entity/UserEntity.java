@@ -1,4 +1,4 @@
-package com.example.backen.Entity;
+package com.example.backen.entity;
 
 public class UserEntity {
     private int id;
